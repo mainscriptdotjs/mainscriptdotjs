@@ -41,11 +41,3 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
  <strong style="color: #FFFFFF;">GPU:</strong> <span style="color: #FFA500;">NVIDIA GeForce GTX 1650 Mobile</span>
  <strong style="color: #FFFFFF;">Memory:</strong> <span style="color: #FFA500;">5576MiB / 7860MiB</span>
 </pre>
-<h1 style="color:#FF0000;">ABOUT M4RCEL</h1>
-<strong style="color: #FFFFFF;">Name:</strong> <span style="color: #FFA500;">Marcel</span>
-<strong style="color: #FFFFFF;">Likes:</strong> <span style="color: #FFA500;">Ubuntu</span>
-<strong style="color: #FFFFFF;">Dislikes:</strong> <span style="color: #FFA500;">Terminal (sorry)</span>
-<strong style="color: #FFFFFF;">Fav Game(s):</strong> <span style="color: #FFA500;">Roblox, Minecraft, Buckshot Roulette</span>
-<strong style="color: #FFFFFF;">Fav Revival(s):</strong> <span style="color: #FFA500;">RBLX23</span>
-<strong style="color: #FFFFFF;">Listens to Spotify:</strong> <span style="color: #FFA500;">Yes</span>
-<strong style="color: #FFFFFF;">Discord Username:</strong> <span style="color: #FFA500;">maaarcell</span>
