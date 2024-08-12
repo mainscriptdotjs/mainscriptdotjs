@@ -1,27 +1,4 @@
-<h1 style="color:#FF0000;">m4rcel@Legion-Y7000-2019-PG0</h1>
-
-<pre style="font-family: monospace; display: inline-block; vertical-align: top;">
-            .-/+ooosssso+/-.
-        `:+ssssssssssssssssss+:`
-      -+ssssssssssssssssssyyssss+-
-    .ossssssssssssssssssdMMMNysssso.
-   /ssssssssssshdmmNNmmyNMMMMhssssss/
-  +ssssssssshmydMMMMMMMNddddyssssssss+
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+ooosssso+/-.
-</pre>
+<h1 style="color:#FF0000;">MY LAPTOP/PC: m4rcel@Legion-Y7000-2019-PG0</h1>
 
 <pre style="font-family: monospace; color: #FFFFFF; display: inline-block;">
  <strong style="color: #FFFFFF;">OS:</strong> <span style="color: #FFA500;">Ubuntu 24.04 LTS x86_64</span>
